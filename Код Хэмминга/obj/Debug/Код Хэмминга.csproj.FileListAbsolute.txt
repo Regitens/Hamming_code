@@ -1,0 +1,32 @@
+C:\Users\Валентина\Desktop\master\Код Хэмминга\bin\Debug\Код Хэмминга.exe.config
+C:\Users\Валентина\Desktop\master\Код Хэмминга\bin\Debug\Код Хэмминга.exe
+C:\Users\Валентина\Desktop\master\Код Хэмминга\bin\Debug\Код Хэмминга.pdb
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код Хэмминга.csprojResolveAssemblyReference.cache
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form1.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form2.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form3.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form4.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.HelperForModif.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.HelperForStatisticcs.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Kod1Rezim.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.KodModif.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Properties.Resources.resources
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код Хэмминга.csproj.GenerateResource.Cache
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код Хэмминга.exe
+C:\Users\Валентина\Desktop\master\Код Хэмминга\obj\Debug\Код Хэмминга.pdb
+D:\с раб стола\master\Код Хэмминга\bin\Debug\Код Хэмминга.exe.config
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код Хэмминга.exe
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код Хэмминга.pdb
+D:\с раб стола\master\Код Хэмминга\bin\Debug\Код Хэмминга.exe
+D:\с раб стола\master\Код Хэмминга\bin\Debug\Код Хэмминга.pdb
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код Хэмминга.csprojResolveAssemblyReference.cache
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form1.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form2.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form3.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Form4.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.HelperForModif.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.HelperForStatisticcs.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Kod1Rezim.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.KodModif.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код_Хэмминга.Properties.Resources.resources
+D:\с раб стола\master\Код Хэмминга\obj\Debug\Код Хэмминга.csproj.GenerateResource.Cache
